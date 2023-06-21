@@ -28,3 +28,10 @@
     width: 70px;
     height: 70px;
 }
+
+.footer {
+    text-align: center;
+    font-size: 15px;
+    color: black;
+    padding-top: 60px;
+}
